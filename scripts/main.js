@@ -1,3 +1,5 @@
+// Image switcher code
+
 var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
@@ -9,6 +11,7 @@ myImage.onclick = function() {
         } 
 }
 
+// Personalized welcome message code
 var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
 
